@@ -1,5 +1,25 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
+Inside of this repository
+
+The below is a breakdown (and instructions) for a Python Homework Assignment required for the Data Science Bootcamp @ Northwestern University.
+
+Students were to utilize Jupyter Notebook / Jupyter Lab to provide completed dataframes housing the correct answers/results to the questions outlined in the below document. 
+
+Github Pandas-Challenge folder summary:
+
+  The HeroesOfPymoli folder contains:
+  * A Resources folder housing the purchase_data.csv file
+  * A heroesofpymoli.ipynb file that stores the script to generate the requested results of the project
+
+
+Below are my descriptions of three observable trends based on the data.
+  * Males represent a much larger portion of the players (484) and purchases (652) vs Females (81) and (113) respectively.
+  * Females spend more on average per item purchases ($4.47) vs males ($4.07).
+  * The age demographic of 20-24 has the highest player percent (44.79%) of the samples obvserved, over doubling the next closest subset, ages 15-19, which is only 18.58%.  The 20-24 age group also represents the most money spent ($1,114.06), but only spends the third most of the age subsets per average purchase. The group that spends the most on average is the 35-39 age group ($4.76), followed by the under 10 group ($4.54) and 20-24 group ($4.32).
+  
+
+Assignment instructions (below) provided by Northwestern Data Science Bootcamp
 ## Background
 
 The data dive continues!
